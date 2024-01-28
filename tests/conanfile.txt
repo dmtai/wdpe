@@ -1,0 +1,12 @@
+[requires]
+gtest/1.14.0
+lief/0.13.1
+
+[generators]
+cmake
+cmake_find_package
+CMakeDeps
+CMakeToolchain
+
+[layout]
+cmake_layout

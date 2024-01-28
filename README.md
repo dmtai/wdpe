@@ -209,4 +209,4 @@ cmake --build . --config Release --target wdpe
 Build the dll using cmake and the WDPE_BUILD_SHARED option and include it to the project. Include the ```#include <wdpe/wdpe.hpp>``` header.
 
 ## Documentation
-Documentation is located in the wiki pages.
+Documentation is located in the [wiki](https://github.com/dmtai/wdpe/wiki/Documentation) pages.
